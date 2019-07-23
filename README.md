@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularCrashTodolist
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# angular-crash-todolist
+angular review
+>>>>>>> 0ef2e23f7bedcc827adb6d36d64dd4fd948ca064
